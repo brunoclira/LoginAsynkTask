@@ -5,3 +5,8 @@
 .DS_Store
 /build
 /captures
+/build/
+/target/
+/.classpath
+/.settings/
+/.project
