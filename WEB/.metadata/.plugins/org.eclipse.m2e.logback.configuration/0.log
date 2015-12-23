@@ -1,0 +1,15 @@
+2015-12-23 15:57:24,267 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: rest-servlet-service:rest-servlet-service:0.0.1-SNAPSHOT @ C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\pom.xml.
+2015-12-23 15:57:26,405 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20151123/json-20151123.pom
+2015-12-23 15:57:26,605 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20151123/json-20151123.pom
+2015-12-23 15:57:26,776 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2015-12-23 15:57:26,932 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2015-12-23 15:57:27,583 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20151123/json-20151123.jar
+2015-12-23 15:57:27,760 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20151123/json-20151123.jar
+2015-12-23 15:57:32,059 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 15:57:32,074 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\main\resources
+2015-12-23 15:57:32,074 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 15:57:32,074 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\test\resources
+2015-12-23 15:57:33,411 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 15:57:33,415 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\main\resources
+2015-12-23 15:57:33,415 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 15:57:33,415 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\test\resources
