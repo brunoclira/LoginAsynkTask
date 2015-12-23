@@ -32,5 +32,10 @@
 			<artifactId>json</artifactId>
 			<version>20151123</version>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.tomcat</groupId>
+			<artifactId>tomcat-servlet-api</artifactId>
+			<version>8.0.27</version>
+		</dependency>
 	</dependencies>
 </project>

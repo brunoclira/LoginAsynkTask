@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
                     String senha = senhaEditText.getText().toString();
 
                 LoginAsyncTask loginAsyncTask = new LoginAsyncTask(view.getContext());
+                String[] valores = {nome,senha};
+                loginAsyncTask.execute(valores);
             }
 
         });

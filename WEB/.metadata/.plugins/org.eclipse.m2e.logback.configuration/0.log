@@ -17,3 +17,20 @@
 2015-12-23 17:49:23,302 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\main\resources
 2015-12-23 17:49:23,303 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-12-23 17:49:23,304 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\test\resources
+2015-12-23 21:53:15,570 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: rest-servlet-service:rest-servlet-service:0.0.1-SNAPSHOT @ C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\pom.xml.
+2015-12-23 21:53:17,066 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/8.0.27/tomcat-servlet-api-8.0.27.pom
+2015-12-23 21:53:17,223 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/8.0.27/tomcat-servlet-api-8.0.27.pom
+2015-12-23 21:53:17,545 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/8.0.27/tomcat-servlet-api-8.0.27.jar
+2015-12-23 21:53:18,430 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/8.0.27/tomcat-servlet-api-8.0.27.jar
+2015-12-23 21:53:20,551 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 21:53:20,575 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\main\resources
+2015-12-23 21:53:20,577 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 21:53:20,577 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\test\resources
+2015-12-23 21:53:20,578 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of rest-servlet-service
+2015-12-23 21:53:20,640 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for rest-servlet-service
+2015-12-23 21:53:20,652 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2015-12-23 21:53:20,671 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 21:53:22,339 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 21:53:22,340 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\main\resources
+2015-12-23 21:53:22,341 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-23 21:53:22,342 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\test\resources
