@@ -12,13 +12,10 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-/**
- * Created by Rhavy on 14/12/2015.
- */
 public class HttpService {
 
     // IP da máquina onde se encontra o servidor.
-    private static final String URL_CONTEXT = "http://192.168.0.168:8080/rest-servlet-service/";
+    private static final String URL_CONTEXT = "http://192.168.25.203:8080/rest-servlet-service/";
 
     public static HttpURLConnection sendGetRequest(String service)
             throws MalformedURLException, IOException{
