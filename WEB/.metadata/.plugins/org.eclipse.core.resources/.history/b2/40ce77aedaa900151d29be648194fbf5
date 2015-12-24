@@ -46,7 +46,7 @@ public class serviceservlet extends HttpServlet {
 		if (nome.toLowerCase().trim().equals("fulano") && senha.trim().equals("123")) {
 
 			try {
-				
+
 				pw.write("{'key': '" + criptografarSha256("IFPB") + "'}");
 				response.setStatus(200);
 

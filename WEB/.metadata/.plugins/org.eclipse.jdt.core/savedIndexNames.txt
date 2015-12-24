@@ -14,7 +14,6 @@ INDEX VERSION 1.127+C:\Java\GitHub\LoginAsynkTask\WEB\.metadata\.plugins\org.ecl
 2006862849.index
 3706135349.index
 1967914499.index
-1667949480.index
 1742188886.index
 4189205780.index
 1233791618.index

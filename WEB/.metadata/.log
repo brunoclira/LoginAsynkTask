@@ -65,3 +65,15 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-23 21:53:22.342
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.core 4 0 2015-12-23 23:00:09.616
+!MESSAGE Could not delete C:\Java\eclipse\ApacheTomcat7\wtpwebapps\rest-servlet-service\WEB-INF\lib\tomcat-servlet-api-8.0.27.jar. May be locked by another process.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2015-12-23 23:00:12.973
+!MESSAGE Could not delete C:\Java\eclipse\ApacheTomcat7\wtpwebapps\rest-servlet-service\WEB-INF\lib\tomcat-servlet-api-8.0.27.jar. May be locked by another process.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-23 23:07:22.194
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-23 23:07:22.211
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
