@@ -40,8 +40,7 @@ public class LoginAsyncTask extends AsyncTask<String, Void, Response>{
 
         try {
 
-            //connection = HttpService.sendGetRequest("servicoservlet");
-            connection = HttpService.sendPostRequest("servicoservlet");
+            connection = HttpService.sendGetRequest("servicoservlet");
 
             int statusCodeHttp = connection.getResponseCode();
             String contentValue = HttpService.getHttpContent(connection);
@@ -70,13 +69,14 @@ public class LoginAsyncTask extends AsyncTask<String, Void, Response>{
         try {
 
             int status = response.getStatusCodeHttp();
+            JSONObject json = new JSONObject(response.getContentValue());
 
             if (status == HttpURLConnection.HTTP_OK) {
-
-                JSONObject json = new JSONObject(response.getContentValue());
-
-                String nome = json.getString("nome");
+                String nome = json.getString("key");
                 Log.i("NotificationWearApp", "Nome: " + nome);
+                Toast.makeText(context, nome, Toast.LENGTH_LONG).show();
+            }else{
+                String nome = json.getString("mensagem");
                 Toast.makeText(context, nome, Toast.LENGTH_LONG).show();
             }
 

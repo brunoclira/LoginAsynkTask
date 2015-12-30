@@ -22,12 +22,15 @@ public class HttpService {
 
         HttpURLConnection connection = null;
 
-        URL url = new URL(URL_CONTEXT + service);
+        try {
+            URL url = new URL(URL_CONTEXT + service);
 
-        connection = (HttpURLConnection) url.openConnection();
-        connection.setRequestMethod("GET");
-        connection.connect();
-
+            connection = (HttpURLConnection) url.openConnection();
+            connection.setRequestMethod("GET");
+            connection.connect();
+        }catch(Exception e){
+            System.out.println("HttpService: " + e.getMessage());
+        }
         return connection;
     }
 
