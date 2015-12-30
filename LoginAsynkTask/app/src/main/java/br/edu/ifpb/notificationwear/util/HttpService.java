@@ -32,7 +32,7 @@ public class HttpService {
     }
 
     public void sendJsonPostRequest(String service, JSONObject json) {
-        //TODO: Implementar conexão com o Servidor REST.
+
     }
 
     public static String getHttpContent(HttpURLConnection connection) {

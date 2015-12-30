@@ -40,7 +40,8 @@ public class LoginAsyncTask extends AsyncTask<String, Void, Response>{
 
         try {
 
-            connection = HttpService.sendGetRequest("servicoservlet");
+            //connection = HttpService.sendGetRequest("servicoservlet");
+            connection = HttpService.sendPostRequest("servicoservlet");
 
             int statusCodeHttp = connection.getResponseCode();
             String contentValue = HttpService.getHttpContent(connection);

@@ -38,3 +38,7 @@
 2015-12-23 23:07:22,209 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\main\resources
 2015-12-23 23:07:22,211 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-12-23 23:07:22,212 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\test\resources
+2015-12-30 20:14:04,646 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-30 20:14:04,693 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\main\resources
+2015-12-30 20:14:04,695 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-30 20:14:04,696 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\GitHub\LoginAsynkTask\WEB\rest-servlet-service\src\test\resources
