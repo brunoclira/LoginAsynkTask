@@ -1,4 +1,4 @@
-package br.edu.ifpb.notificationwear.model;
+package br.edu.ifpb.notificationwear.entidade;
 
 public class Usuario {
 
@@ -9,22 +9,20 @@ public class Usuario {
         nome = null;
         senha = null;
     }
-
     public Usuario (String nome, String senha){
         this.nome = nome;
         this.senha = senha;
     }
-    public String getNome() {
-        return nome;
-    }
     public void setNome(String nome) {
         this.nome = nome;
     }
-    public String getSenha() {
-        return senha;
+    public String getNome() {
+        return nome;
     }
     public void setSenha(String senha) {
         this.senha = senha;
     }
-
+    public String getSenha() {
+        return senha;
+    }
 }
