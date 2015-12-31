@@ -72,7 +72,7 @@ public class LoginAsyncTask extends AsyncTask<String, Void, Response>{
             JSONObject json = new JSONObject(response.getContentValue());
 
             if (status == HttpURLConnection.HTTP_OK) {
-                String nome = json.getString("key");
+                String nome = json.getString("nome");
                 Log.i("NotificationWearApp", "Nome: " + nome);
                 Toast.makeText(context, nome, Toast.LENGTH_LONG).show();
             }else{
